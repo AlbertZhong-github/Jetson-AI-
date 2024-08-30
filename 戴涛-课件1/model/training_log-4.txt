@@ -1,0 +1,5 @@
+Epoch 1, Loss: 2.2992, Accuracy: 0.1139
+Epoch 2, Loss: 2.2592, Accuracy: 0.1938
+Epoch 3, Loss: 0.9935, Accuracy: 0.6670
+Epoch 4, Loss: 0.2224, Accuracy: 0.9308
+Epoch 5, Loss: 0.1297, Accuracy: 0.9599
